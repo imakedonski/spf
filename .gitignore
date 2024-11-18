@@ -1,0 +1,6 @@
+/.idea
+/src/cache
+!/src/cache/.gitkeep
+/vendor
+.env
+.phpunit.cache
